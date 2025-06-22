@@ -2,3 +2,4 @@ a.out
 *.pdf
 .vscode
 *.json
+**/DS_Store
