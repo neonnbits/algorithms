@@ -1,0 +1,15 @@
+there are four ways to deal with a dynamic programming problem
+
+group 2 problems
+- plain recursive solution
+- top down approach with memoization
+- bottom up approach
+- some fine tuning applicable for this group(linear sequence, linear time, constant transition)
+
+problems
+- min cost climbing stairs
+- minimum time to make rope coloful
+- house robber
+- decode ways
+- minimum cost for tickets
+- solving questions with brain power
